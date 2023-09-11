@@ -1,3 +1,5 @@
 Hello magit
 
+hello.
+
 show me what you can do.n
